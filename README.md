@@ -1,32 +1,82 @@
-<h1 align="center">Hi, I'm Erkin.</h1>
+<div align="center">
 
-<p align="center">
-  Building at the intersection of AI, growth, and product.
-</p>
+# ERKIN
 
-<p align="center">
-  I turn ideas into useful products through rapid experiments, thoughtful design, and vibe coding.
-</p>
+### AI × Growth × Product
 
-## What I do
+*Turning curious ideas into useful, shippable products.*
 
-- Build AI-assisted products from idea to working prototype
-- Explore growth loops, user experience, and product strategy
-- Learn fast, ship often, and build in public
+`think clearly` · `build quickly` · `learn publicly`
 
-## Current focus
+</div>
 
-I'm interested in practical AI—tools and workflows that help people become more creative, capable, and productive. My work blends product thinking, hands-on building, and continuous experimentation.
+---
+
+## Hello
+
+I'm **Erkin** — a product-minded builder exploring how AI can make people more creative, capable, and productive.
+
+I combine product thinking, growth experiments, and vibe coding to move from an early idea to something people can actually use.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What I build
+
+- AI-assisted products and workflows
+- Fast, focused product prototypes
+- Experiments around growth and UX
+
+</td>
+<td width="50%" valign="top">
+
+### How I work
+
+- Start with the smallest useful version
+- Ship early and listen carefully
+- Share the process, not only the result
+
+</td>
+</tr>
+</table>
 
 ## Selected work
 
-- [**fits-demo**](https://github.com/ErkinCao/fits-demo) — a product experiment
-- [**shengyi-tech-report**](https://github.com/ErkinCao/shengyi-tech-report) — technology research and reporting
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Building in public
+### [fits-demo](https://github.com/ErkinCao/fits-demo)
 
-This profile is a living record of what I'm learning, testing, and shipping. Expect small experiments, honest notes, and steady iteration.
+A lightweight product experiment focused on turning an idea into a working experience.
 
-<p align="center">
-  <em>Curiosity → prototype → feedback → better product.</em>
-</p>
+`product` `prototype` `iteration`
+
+</td>
+<td width="50%" valign="top">
+
+### [shengyi-tech-report](https://github.com/ErkinCao/shengyi-tech-report)
+
+Technology research and reporting—making complex ideas easier to understand and use.
+
+`research` `AI` `insight`
+
+</td>
+</tr>
+</table>
+
+## Now
+
+Exploring practical AI, sharper product decisions, and better ways to build in public—one useful experiment at a time.
+
+---
+
+<div align="center">
+
+### Curiosity → Prototype → Feedback → Better product
+
+<sub>Building thoughtfully. Shipping consistently.</sub>
+
+</div>
+
